@@ -64,5 +64,6 @@
         "string": "cpp",
         "core": "cpp"
     },
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
 }
